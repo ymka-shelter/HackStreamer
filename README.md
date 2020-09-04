@@ -2,7 +2,7 @@
 is a webcam🎥+audio🎤 tcp/udp-based streamer from Windows machines.
 
 ## WHAT DOES IT DO?
-It can stream from webcam/audio devices locally or to a remote host.
+It can stream from webcam/audio devices locally or to a remote host or save the stream to a local file.
 
 ## WHY
 Because of fun. Once I hacked my own machine and wanted to get a stream from webcam.
